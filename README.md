@@ -22,10 +22,11 @@ A real-time chat implementation using WebSocket protocol, designed to demonstrat
 - Configured **Node.js WebSocket server** on Render
 - Deployed static frontend via **GitHub Pages** and **Cloudflare Pages**
 - Handled **WebSocket security** through connection validation
+  
+![alt text](ChatSS.png)
 
 ## 🛠 Tech Stack
 ```bash
 Frontend: Vanilla JavaScript
 Backend: Node.js + WS (WebSocket)
 Infra: Render (Backend) + GitHub Pages + (Currently)Cloudflare Pages(Frontend)
-![alt text](ChatSS.png)
