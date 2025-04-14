@@ -1,4 +1,4 @@
-# WebSocket-Chat-Application-
+# WebSocket-Chat-Application
 A real-time chat implementation using WebSocket protocol, designed to demonstrate core networking concepts.
 
 **Features**:  
@@ -22,7 +22,7 @@ A real-time chat implementation using WebSocket protocol, designed to demonstrat
 - Configured **Node.js WebSocket server** on Render
 - Deployed static frontend via **GitHub Pages** and **Cloudflare Pages**
 - Handled **WebSocket security** through connection validation
-
+  
 [Link(If I didn't close it)](https://fed-chat.pages.dev/)  
 
 [![Screenshot](ChatSS.png)](https://fed-chat.pages.dev/)
