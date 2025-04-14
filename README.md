@@ -23,9 +23,11 @@ A real-time chat implementation using WebSocket protocol, designed to demonstrat
 - Deployed static frontend via **GitHub Pages** and **Cloudflare Pages**
 - Handled **WebSocket security** through connection validation
 
+[Link(If I didn't close it)](https://fed-chat.pages.dev/)  
+
+[![Screenshot](ChatSS.png)](https://fed-chat.pages.dev/)
 ## 🛠 Tech Stack
 ```bash
 Frontend: Vanilla JavaScript
 Backend: Node.js + WS (WebSocket)
 Infra: Render (Backend) + GitHub Pages + (Currently)Cloudflare Pages(Frontend)
-![alt text](ChatSS.png)
