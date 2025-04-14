@@ -1,4 +1,4 @@
-# WebSocket-Chat-Application-
+# WebSocket-Chat-Application
 A real-time chat implementation using WebSocket protocol, designed to demonstrate core networking concepts.
 
 **Features**:  
